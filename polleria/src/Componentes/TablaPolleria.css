@@ -1,0 +1,11 @@
+tr{
+  border: 2px solid black;
+  border-radius: 10px;
+}
+td{
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: blanchedalmond;
+  min-width: 100px;
+  padding: 3px;
+}
